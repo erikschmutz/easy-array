@@ -1,0 +1,17 @@
+{
+  "name": "easy-array",
+  "version": "1.0.5",
+  "description": "Array extenstions for easier array usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays",
+    "utils",
+    "native",
+    "javascript"
+  ],
+  "author": "Erik Rehn",
+  "license": "MIT"
+}
